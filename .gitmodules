@@ -4,3 +4,6 @@
 [submodule "alx-zero_day"]
 	path = alx-zero_day
 	url = https://github.com/Punisher006/alx-zero_day.git
+[submodule "alx-system_engineering-devops"]
+	path = alx-system_engineering-devops
+	url = https://github.com/Punisher006/alx-system_engineering-devops.git
