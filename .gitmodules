@@ -1,0 +1,6 @@
+[submodule "alx-pre_course"]
+	path = alx-pre_course
+	url = https://github.com/Punisher006/alx-pre_course.git
+[submodule "alx-zero_day"]
+	path = alx-zero_day
+	url = https://github.com/Punisher006/alx-zero_day.git
